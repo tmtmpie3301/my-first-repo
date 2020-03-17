@@ -1,2 +1,2 @@
 # my-first-repo
-This is sample repository 
+This is awesome repository 
